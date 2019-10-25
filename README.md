@@ -1,2 +1,2 @@
 # Neural-Networks
-Code and lessons for neural networks
+Code for a short introductory lesson on neural networks
